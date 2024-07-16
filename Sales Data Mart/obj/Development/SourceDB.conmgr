@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="YOUSEF-FATHY_SQLEXPRESS.AdventureWorks2022"
+  DTS:DTSID="{6CE29B95-83C1-4435-A30B-FB1E5654EB54}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=YOUSEF-FATHY\SQLEXPRESS;Initial Catalog=AdventureWorks2022;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Sales Data Mart-{6CE29B95-83C1-4435-A30B-FB1E5654EB54}YOUSEF-FATHY\SQLEXPRESS.AdventureWorks2022;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
